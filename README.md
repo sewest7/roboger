@@ -1,17 +1,5 @@
 //TESTS//
 
-Describe: robogerCounter
-
-
-Test: "If no number is entered, 'Enter a number, please.' should display"
-
-Code:
-
-const number = " ";
-
-robogerCounter;
-
-Expected Output: "Enter a number, please."
 
 
 Test: "Any number containing a 1 turn into 'Beep!'"
